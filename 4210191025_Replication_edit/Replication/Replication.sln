@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Replication", "Replication.csproj", "{DE3CC086-0176-478A-8BF1-83C41A10F365}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "replication_server", "..\replication_server\replication_server.csproj", "{57993019-D51D-4407-B058-108A87841D75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE3CC086-0176-478A-8BF1-83C41A10F365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE3CC086-0176-478A-8BF1-83C41A10F365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE3CC086-0176-478A-8BF1-83C41A10F365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE3CC086-0176-478A-8BF1-83C41A10F365}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57993019-D51D-4407-B058-108A87841D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57993019-D51D-4407-B058-108A87841D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57993019-D51D-4407-B058-108A87841D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57993019-D51D-4407-B058-108A87841D75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5CB6844-3026-46C4-8955-F8F016A788C1}
+	EndGlobalSection
+EndGlobal
